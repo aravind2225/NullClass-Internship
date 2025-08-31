@@ -1,0 +1,3 @@
+This Folder contains all the files related to Deployment.
+The deployment is done at local host only (As I dont have that much money to Buy a Domain)
+Deployed through FastAPI as backend Framework and Plane HTML,CSS,JS for frontend
